@@ -39,6 +39,8 @@ Large Language Models (LLMs) have shown extraordinary capabilities in understand
 8. **[Promising and worth-to-try future directions for advancing state-of-the-art surrogates methods of agent-based models in social and health computational sciences](https://arxiv.org/abs/2403.04417)** 
 The execution and runtime performance of model-based analysis tools for realistic large-scale ABMs (Agent-Based Models) can be excessively long. This due to the computational demand exponentially proportional to the model size (e.g. Population size) and the number of model parameters. Even the runtime of a single simulation of a realistic ABM may demand huge computational resources when attempting to employ realistic population size. 
 
+9. **[Can Large Language Model Agents Simulate Human Trust Behaviors?](https://arxiv.org/abs/2402.04559)** 
+Large Language Model (LLM) agents have been increasingly adopted as simulation tools to model humans in applications such as social science. However, one fundamental question remains: can LLM agents really simulate human behaviors?
 
 
 
