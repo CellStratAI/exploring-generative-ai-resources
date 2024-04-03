@@ -1,5 +1,5 @@
 # Exploring Generative AI Resources
-![Cellstrat AI](/Users/indrajitsingh/Cellstrat/GenerativeAi/exploring-generative-ai-resources/images/Celllstrat_Community.png)
+![Cellstrat AI]("../images/Celllstrat_Community.png")
 > A curated collection of resources for exploring the fascinating field of Generative Artificial Intelligence.
 
 Generative Artificial Intelligence is an innovative technology that leverages machine learning and deep learning algorithms to produce original content, ranging from images and sounds to texts. This repository serves as a comprehensive guide to discovering and understanding various Generative AI projects, tools, and services.
