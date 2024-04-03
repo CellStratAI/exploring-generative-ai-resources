@@ -22,8 +22,11 @@ Contributions to this repository are encouraged and appreciated. Please refer to
 
 ## Further Reading
 
-- [How Large Language Models Will Transform Science, Society, and AI](https://hai.stanford.edu/news/how-large-language-models-will-transform-science-society-and-ai) - Article summarizing the capabilities and limitations of the GPT-3 model, and its potential impact on society. By Alex Tamkin and Deep Ganguli, February 5, 2021.
-- [Generative AI: A Creative New World](https://www.sequoiacap.com/article/generative-ai-a-creative-new-world/) - A comprehensive examination of the generative AI industry, offering a historical perspective and in-depth analysis of the industry ecosystem. By Sonya Huang, Pat Grady and GPT-3, September 19, 2022.
+- [Can Artificial Intelligence Map Our Moods?](https://hai.stanford.edu/news/can-artificial-intelligence-map-our-moods) - Researchers showed long ago that artificial intelligence models could identify a person’s basic psychological traits from their digital footprints in social media.Jan 25, 2021
+- [Generative AI: Industry perspectives](https://www.mckinsey.com/featured-insights/themes/generative-ai-industry-perspectives) - March 10, 2024 If 2023 was generative AI’s breakout year, 2024 is shaping up to be the year for generative AI to prove its value. Which industries are poised to benefit most from the rapidly developing technology?
+
 - [A Coming-Out Party for Generative A.I., Silicon Valley's New Craze](https://www.nytimes.com/2022/10/21/technology/generative-ai.html) - Article about the rise of generative AI, particularly the success of the Stable Diffusion image generator, and the associated controversies. New York Times, October 21, 2022.
-- [AI's New Creative Streak Sparks a Silicon Valley Gold Rush](https://www.wired.com/story/ais-new-creative-streak-sparks-a-silicon-valley-gold-rush/) - Article about the growing hype and investment in generative AI startups, with various industries exploring its potential applications. Wired, October 27, 2022.
-- [ChatGPT Heralds an Intellectual Revolution](https://www.wsj.com/articles/artificial-intelligence-generative-ai-chatgpt-kissinger-84512912) - An op-ed by Henry Kissinger, Eric Schmidt and Daniel Huttenlocher. Wall Street Journal, February 24, 2023.
+- [3 insights from nonprofits about generative AI](https://blog.google/outreach-initiatives/google-org/google-for-nonprofits-generative-ai-report/) - Nonprofits around the world do critical work in their communities, from helping people build new skills, to studying and protecting biodiversity. But they’re also often stretched, under-resourced and weighed down by time-consuming administrative tasks.
+
+- [2024 Generative AI Planning: How are IT Organizations Preparing?](https://www.gartner.com/peer-community/oneminuteinsights/2024-generative-ai-planning-how-it-organizations-preparing-zxm) - How are CIOs and IT leaders approaching 2024 planning and budgeting to account for Generative AI (GenAI) adoption within their IT organizations?
+
