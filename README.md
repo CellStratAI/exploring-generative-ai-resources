@@ -26,6 +26,10 @@ Contributions to this repository are encouraged and appreciated. Please refer to
    Description: An introduction to Stable Diffusion, covering its practical applications and implementations. The session introduces diffusion models, explaining their role in generating images conditioned on text prompts. Diffusion models iteratively remove noise from random images, gradually refining them into high-quality outputs. The workshop covers denoising autoencoders, basic unit architectures, and applying diffusion for image enhancement and generation. Bhavish explores advanced applications like image-to-image transformations and inpainting. Stable diffusion offers stable training compared to GANs, yielding high-quality results efficiently. 
 
    [YouTube Link](https://www.youtube.com/watch?v=0mwgOD0RO-c&list=PLe98utiPuz-83wIzgtZUhp3ZaSM99hWpC&index=1&pp=iAQB)
+   - Key Learnings from this video 
+   - Learn about practical applications of Stable Diffusion
+   - Understand the role of diffusion models in image generation
+   - Explore advanced applications like image-to-image transformations
 
 2. **Build a Text 2 Image Generator with Stable Diffusion**  
    Description: Learn how to build a Text 2 Image generator using Stable Diffusion technology.  
@@ -34,31 +38,49 @@ Contributions to this repository are encouraged and appreciated. Please refer to
 3. **Generative AI - An Overview of Stable Diffusion Image to Image / Text to Image**  
    Description: An overview of Stable Diffusion technology and its applications in image and text generation.  
    [YouTube Link](https://www.youtube.com/watch?v=ngsoo4wQcZQ&list=PLe98utiPuz-83wIzgtZUhp3ZaSM99hWpC&index=3&pp=iAQB)
+   - Key Learnings from this video 
+   - Gain insights into Stable Diffusion technology
+   - Learn about image-to-image and text-to-image applications
 
 4. **Generative AI - An overview of GPT / ChatGPT algorithm and its applications**  
    Description: Overview of the GPT (Generative Pre-trained Transformer) algorithm and its various applications.  
    [YouTube Link](https://www.youtube.com/watch?v=55vQrq040sU&list=PLe98utiPuz-83wIzgtZUhp3ZaSM99hWpC&index=4&pp=iAQB)
+   - Key Learnings from this video 
+   - Understand the GPT algorithm and its applications
 
 5. **Generative AI - Image Gen with Stable Diffusion - Model Training, SD Extensions**  
    Description: Dive into the process of training models for image generation using Stable Diffusion, along with its extensions.  
    [YouTube Link](https://www.youtube.com/watch?v=t1DxlR3oVxE&list=PLe98utiPuz-83wIzgtZUhp3ZaSM99hWpC&index=2&pp=iAQB)
+   - Key Learnings from this video   
+   - Learn about model training for image generation
+   - Understand Stable Diffusion extensions
 
 6. **Generative AI - Understanding AI Image Generation DALL E2 and Stable Diffusion**  
    Description: Explore the concepts behind AI Image Generation, including DALL E2 and Stable Diffusion.  
    [YouTube Link](https://www.youtube.com/watch?v=r_KSds3MCkY&list=PLe98utiPuz-83wIzgtZUhp3ZaSM99hWpC&index=6&pp=iAQB)
+   - Key Learnings from this video
+   - Gain insights into AI Image Generation
+   - Understand DALL E2 and Stable Diffusion
 
 7. **Generative AI - Stable Diffusion extensions with Automatic1111, ControlNet, DreamBooth**  
    Description: Discover the extensions of Stable Diffusion technology, including Automatic1111, ControlNet, and DreamBooth.  
    [YouTube Link](https://www.youtube.com/watch?v=hE40v7M3TwY&list=PLe98utiPuz-83wIzgtZUhp3ZaSM99hWpC&index=7&pp=iAQB)
+   - Key Learnings from this video
+   - Explore Stable Diffusion extensions
+   - Understand applications of Automatic1111, ControlNet, and DreamBooth
 
 8. **Generative AI Overview**  
    Description: An overview of Generative AI technology, its current state, and future prospects.  
    [YouTube Link](https://www.youtube.com/watch?v=XNmBY6osPp8&list=PLe98utiPuz-83wIzgtZUhp3ZaSM99hWpC&index=8&pp=iAQB)
+   - Key Learnings from this video
+   - Understand the current state and future prospects of Generative AI
 
 9. **Generative AI - Fine Tuning GPT / ChatGPT for Business Applications**  
    Description: Learn how to fine-tune GPT and ChatGPT models for various business applications.  
    [YouTube Link](https://www.youtube.com/watch?v=y4h66u3KLsA&list=PLe98utiPuz-83wIzgtZUhp3ZaSM99hWpC&index=9&pp=iAQB)
-
+   - Key Learnings from this video
+   - Explore applications of GPT and ChatGPT in business
+   - Learn techniques for fine-tuning these models
 
 ## Further Reading
 
