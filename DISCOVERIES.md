@@ -25,3 +25,5 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 ## Text
 
 ### Models
+
+## You can read about agents [here](https://github.com/CellStratAI/exploring-generative-ai-resources/blob/main/AGENTS.md) 
