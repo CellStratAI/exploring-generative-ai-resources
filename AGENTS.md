@@ -1,6 +1,8 @@
 ## 🔥  AUTONOMOUS AGENTS
 🔥 Must-read papers for LLM-based agents.
 
+## Agents
+
 1. **[A Survey on Large Language Model based Autonomous Agents](https://arxiv.org/pdf/2308.11432.pdf)**  
 Autonomous agents have long been a
 research focus in academic and industry communities. Previous research often focuses on training
