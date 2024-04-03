@@ -32,7 +32,7 @@ Contributions to this repository are encouraged and appreciated. Please refer to
     <br />
     <a href="https://www.youtube.com/@cellstrat1056">
       <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?label=Subscribers&style=for-the-badge&color=red&labelColor=ce4630"/></a> 
-    <a href="https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg">
+    <a href="https://www.youtube.com/@cellstrat1056">
       <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/youtube-api/view-count-badge.php?label=View+Count&style=for-the-badge&color=blue&labelColor=0b689d"/></a>
 </p>
 
