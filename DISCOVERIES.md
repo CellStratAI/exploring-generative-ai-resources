@@ -9,7 +9,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Recommended Reading](#recommended-reading)
 - [Text](#text)
 - [Code](#code)
-- [Agents](#agents)
+- [## 🔥  AUTONOMOUS AGENTS](#agents)
 - [Image](#image)
 - [Video](#video)
 - [Audio](#audio)
