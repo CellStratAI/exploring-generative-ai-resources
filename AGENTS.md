@@ -36,8 +36,8 @@ data quantity and data quality.
 7. **[A Comprehensive Study of Knowledge Editing for Large Language Models](https://arxiv.org/pdf/2401.01286.pdf)** 
 Large Language Models (LLMs) have shown extraordinary capabilities in understanding and generating text that closely mirrors human communication. However, a primary limitation lies in the significant computational demands during training, arising from their extensive parameterization. This challenge is further intensified by the dynamic nature of the world, necessitating frequent updates to LLMs to correct outdated information or integrate new knowledge, thereby ensuring their continued relevance. 
 
-
-🏃 Coming soon: Add one-sentence intro to each paper.
+8. **[Promising and worth-to-try future directions for advancing state-of-the-art surrogates methods of agent-based models in social and health computational sciences](https://arxiv.org/abs/2403.04417)** 
+The execution and runtime performance of model-based analysis tools for realistic large-scale ABMs (Agent-Based Models) can be excessively long. This due to the computational demand exponentially proportional to the model size (e.g. Population size) and the number of model parameters. Even the runtime of a single simulation of a realistic ABM may demand huge computational resources when attempting to employ realistic population size. 
 
 
 
