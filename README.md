@@ -6,7 +6,7 @@ Generative Artificial Intelligence is an innovative technology that leverages ma
 
 Generative AI has gained significant attention due to its ability to create unique and often indistinguishable outputs, making it applicable across diverse domains such as art, entertainment, marketing, academia, and computer science.
 
-Contributions to this repository are encouraged and appreciated. Please refer to the [Contribution Guidelines](CONTRIBUTING.md) before making any submissions. You can suggest additions through [pull requests](https://github.com/your-username/exploring-generative-ai-resources/pulls) or initiate discussions via [issues](https://github.com/your-username/exploring-generative-ai-resources/issues).
+Contributions to this repository are encouraged and appreciated. Please refer to the [Contribution Guidelines](CONTRIBUTING.md) before making any submissions. You can suggest additions through [pull requests](https://github.com/CellStratAI/exploring-generative-ai-resources/pulls) or initiate discussions via [issues](https://github.com/CellStratAI/exploring-generative-ai-resources/issues).
 
 ## Contents
 
