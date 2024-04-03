@@ -16,6 +16,7 @@ Contributions to this repository are encouraged and appreciated. Please refer to
 - [Projects](#projects)
 - [Articles and Papers](#articles-and-papers)
 - [Tutorials and Courses](#tutorials-and-courses)
+- [Webinar Recordings](#video-tutorials-and-courses)
 - [Community](#community)
 - [Further Reading](#further-reading)
 
