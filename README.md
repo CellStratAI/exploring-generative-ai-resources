@@ -22,6 +22,22 @@ Contributions to this repository are encouraged and appreciated. Please refer to
 
 ## Webinar Recordings
 
+<p align="center">
+  <img src="https://i.imgur.com/0QRyKo9.png" width="100px"/>
+  <h3 align="center">Github README YouTube Stats</h3>
+
+  <p align="center">
+    Youtube stats badges for your Github profile README
+    <br />
+    <br />
+    <a href="https://www.youtube.com/@cellstrat1056">
+      <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?label=Subscribers&style=for-the-badge&color=red&labelColor=ce4630"/></a> 
+    <a href="https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg">
+      <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/youtube-api/view-count-badge.php?label=View+Count&style=for-the-badge&color=blue&labelColor=0b689d"/></a>
+</p>
+
+
+![Youtube  Cellstrat AI](/images/youtube_thumbnail.png)
 
 1. **[A Practical Introduction to Diffusion Models (Stable Diffusion)](https://www.youtube.com/watch?v=0mwgOD0RO-c&list=PLe98utiPuz-83wIzgtZUhp3ZaSM99hWpC&index=1&pp=iAQB)**  
    Description: An introduction to Stable Diffusion, covering its practical applications and implementations. The session introduces diffusion models, explaining their role in generating images conditioned on text prompts. Diffusion models iteratively remove noise from random images, gradually refining them into high-quality outputs. The workshop covers denoising autoencoders, basic unit architectures, and applying diffusion for image enhancement and generation. Bhavish explores advanced applications like image-to-image transformations and inpainting. Stable diffusion offers stable training compared to GANs, yielding high-quality results efficiently. 
